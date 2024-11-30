@@ -13,7 +13,7 @@ Learn more about ReqRest at https://github.com/ReqRest/ReqRest and https://reqre
   </PropertyGroup>
 
   <ItemGroup Condition=" $(TargetFramework) != 'netcoreapp3.0' ">
-    <PackageReference Include="System.Text.Json" Version="4.7.0" />
+    <PackageReference Include="System.Text.Json" Version="5.0.2" />
   </ItemGroup>
 
   <ItemGroup>
