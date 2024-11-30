@@ -13,7 +13,7 @@ Learn more about ReqRest at https://github.com/ReqRest/ReqRest and https://reqre
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
   <ItemGroup>
